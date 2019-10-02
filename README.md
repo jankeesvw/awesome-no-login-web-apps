@@ -135,7 +135,9 @@ To save the world from creating user accounts and installing software applicatio
 * [EFShare](http://efshare.com/) - Peer to peer secure file sharing.
 * [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
 * [RGhost](http://rgho.st/) - File hosting service, Max limit 100mb without login.
-* [ImgSafe](https://imgsafe.org/) - Image hosting service with small direct links.
+* [ImgSafe](https://imgsafe.org/) - 
+
+hosting service with small direct links.
 * [Clyp](https://clyp.it/) - Audio sharing without limits, rich API.
 * [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
@@ -155,6 +157,7 @@ To save the world from creating user accounts and installing software applicatio
 
 ### Graphics, Image and Design
 
+* [doka.photo](https://doka.photo/ – Free Online Image Editor)
 * [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
 * [Pixlr Editor](https://pixlr.com/editor/) - Image editor by Pixlr. Lots of features.
 * [Photo Editor | Befunky](https://www.befunky.com/features/photo-editor/) - Image editor with lots of filters and effects.
